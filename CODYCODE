@@ -1,0 +1,14 @@
+#! /bin/bash
+
+#ECHO COMMAND
+echo Hello World!
+
+#VARIABLES
+#Upper case by conventions
+#Letters, numbers, underscores
+NAME="CODYCODE"
+#echo "My name is $NAME"
+
+#USER INPUT
+read -p "Enter your name: "NAME"
+echo "Hello $NAME, do you know how to code?"
