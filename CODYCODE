@@ -8,7 +8,7 @@ echo Hello World!
 #Letters, numbers, underscores
 NAME="CODYCODE"
 #echo "My name is $NAME"
-
+#fix this over the weekend
 #USER INPUT
 read -p "Enter your name: "NAME"
 echo "Hello $NAME, do you know how to code?"
