@@ -11,4 +11,4 @@ NAME="CODYCODE"
 #fix this over the weekend
 #USER INPUT
 read -p "Enter your name: "NAME"
-echo "Hello $NAME, do you know how to code?"
+echo "Hello $NAME, do you know how to write Python code?"
